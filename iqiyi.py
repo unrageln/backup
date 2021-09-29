@@ -1,7 +1,7 @@
 import requests
 
 # server酱开关，填0不开启(默认)，填1只开启cookie失效通知，填2同时开启cookie失效通知和签到成功通知
-server = '2'
+server = ''
 # 填写酷Q sckey,不开启酷Q则不用填
 sckey = ''
 # 抓包  psp_cki 替换到下面三个链接即可
